@@ -1,5 +1,3 @@
-
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;   Assembly program to perform Bubble Sort algorithm (ascending & descending)  ;;
 ;;   on a given array of size 10 each 8-bits starting from [SI] to [SI + 9]      ;;
